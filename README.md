@@ -2,7 +2,7 @@
 
 ## Description
 
-A repository test for the Orchard Fed Test project. Submitted by: Lio, Sergio (applicant)
+A repository test for the Orchard Fed Test project. Submitted by: **Lio, Sergio (applicant)**
 
 ## Installation
 
