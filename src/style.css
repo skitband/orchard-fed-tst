@@ -1,0 +1,50 @@
+@import '@fortawesome/fontawesome-free/css/all.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom CSS here */
+
+/* Your custom CSS here */
+@font-face {
+    font-family: "Open Sans";
+    src: url(./webfonts/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: "Open Sans Light";
+    src: url(./webfonts/OpenSans-Light.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #0e1414;
+    width: 100%;
+    min-height: 100vh;
+    padding: 20vh 0;
+    font-family: "Open Sans Light";
+}
+
+.section {
+    max-width: 1240px !important;
+    margin: 0 auto;
+}
+
+.font-opensans {
+    font-family: "Open Sans";
+}
+
+img:hover {
+    cursor: pointer;
+}
+.component-one {
+    margin-bottom: 200px !important;
+}
+
+.component-two {
+    margin-top: 200px !important;
+}
